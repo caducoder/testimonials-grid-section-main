@@ -16,7 +16,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [site](https://your-live-site-url.com)
+- Live Site URL: [site](https://caducoder.github.io/testimonials-grid-section-main/)
 
 ## My process
 
